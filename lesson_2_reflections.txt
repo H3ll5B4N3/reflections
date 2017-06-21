@@ -12,3 +12,6 @@ Ans: When creating an alternate version of the program it is good to use branche
 
 Q5: How do the diagrams help you visualize the branch structure?
 Ans: Diagrams are easier to understand and see whats happening.
+
+Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans: The result is a new commit where the two branches become one. The branch that was checked out becomes the master and git automatically creates a message for you. We represent it that way because the other branch is merged into the checked out branch. 
